@@ -34,7 +34,7 @@ namespace CarLotSimulator
 
             lot.Cars.Add(carTwo);
 
-            var carThree = new Car(2023, "Lexus", "LS", "Quiet", "Loud", true);
+            var carThree = new Car(2023, "Lexus", "LS", "Quiet", "quiet", true);
 
             lot.Cars.Add(carThree);
 
